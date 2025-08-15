@@ -7,7 +7,7 @@ Script Python para rodar no Google Colab que processa certificados acadêmicos (
 ## 🔧 Funcionalidades
 
 - Extrai texto de PDFs e imagens (OCR)
-- Identifica automaticamente:
+- Identifica automaticamente (NER e REGEX):
   - Nome do aluno
   - Instituição
   - Atividade
